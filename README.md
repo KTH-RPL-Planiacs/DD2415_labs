@@ -11,4 +11,4 @@ When working with the labs in Colab, make sure to create a personal copy of the 
 
 ## Tutorials
 
-- Tutorial 3: Discrete Planning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/safe_autonomy_notebooks/blob/main/tut3_discrete_planning_public.ipynb)
+- Tutorial 3: Discrete Planning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/DD2415_labs/blob/main/tut3_discrete_planning_public.ipynb)
