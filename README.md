@@ -11,4 +11,8 @@ When working with the labs in Colab, make sure to create a personal copy of the 
 
 ## Tutorials
 - Tutorial 0: Introduction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/DD2415_labs/blob/main/tut0_introduction.ipynb)
+- Tutorial 1: Reachability
+  - E-Level:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/DD2415_labs/blob/main/tut1_reachability_Elevel.ipynb)
+  - C- and A-Level:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/DD2415_labs/blob/main/tut1_reachability_CandA.ipynb)
+- Tutorial 2: Motion Planning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/DD2415_labs/blob/main/tut2_optimization.ipynb)
 - Tutorial 3: Discrete Planning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/DD2415_labs/blob/main/tut3_discrete_planning_public.ipynb)
