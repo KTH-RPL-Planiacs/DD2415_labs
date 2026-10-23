@@ -1,6 +1,6 @@
 # DD2416 Labs
 
-This repository hosts lab files for the KTH course DD2416. Each lab is a separate Jupyter notebook. For your convenience, we made sure these run in Google Colab, so you can work with the labs without any setup required on your pc. A Google account is required to make changes and save progress.
+This repository hosts lab files for the KTH course DD2416 (prev. DD2415). Each lab is a separate Jupyter notebook. For your convenience, we made sure these run in Google Colab, so you can work with the labs without any setup required on your pc. A Google account is required to make changes and save progress.
 
 You can also run the notebooks locally, but some require dependencies that need to be built and installed.
 
@@ -19,5 +19,5 @@ When working with the labs in Colab, make sure to create a personal copy of the 
   - E-Level:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/DD2415_labs/blob/main/tut1_reachability_Elevel.ipynb)
   - C- and A-Level:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/DD2415_labs/blob/main/tut1_reachability_CandA.ipynb)
 - Tutorial 2: Motion Planning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/DD2415_labs/blob/main/tut2_optimization.ipynb)
-- Tutorial 3: Discrete Planning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/DD2415_labs/blob/main/tut3_discrete_planning_public.ipynb)
+- Tutorial 3: Discrete Planning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/DD2415_labs/blob/main/tut3_discrete_planning.ipynb)
 - Tutorial 4: Multi-Agent Systems [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KTH-RPL-Planiacs/DD2415_labs/blob/main/tut4_multi_agent.ipynb)
